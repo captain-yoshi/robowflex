@@ -1,0 +1,4 @@
+<map id="robowflex::TrajectoryBenchmarkOutputter" name="robowflex::TrajectoryBenchmarkOutputter">
+<area shape="rect" id="node1" title="Benchmark outputter that saves each trajectory from each run to a rosbag file." alt="" coords="5,80,237,121"/>
+<area shape="rect" id="node2" href="$classrobowflex_1_1BenchmarkOutputter.html" title="An abstract class for outputting benchmark results." alt="" coords="6,5,237,32"/>
+</map>
