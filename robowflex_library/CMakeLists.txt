@@ -82,6 +82,7 @@ list(APPEND SOURCES
   src/random.cpp
   src/yaml.cpp
   src/trajectory.cpp
+  src/detail/panda.cpp
   src/detail/ur5.cpp
   src/detail/fetch.cpp
   )
