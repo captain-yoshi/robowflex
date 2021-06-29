@@ -115,6 +115,8 @@ target_link_libraries(${LIBRARY_NAME} ${LIBRARIES})
 ## Scripts
 ##
 
+add_script(panda_test)
+add_script(panda_visualization)
 add_script(ur5_test)
 add_script(ur5_cylinder)
 add_script(ur5_benchmark)
